@@ -7,7 +7,7 @@ This is a 3D racing game built with React Three Fiber (R3F), featuring physics-b
 ---
 
 ## Demo Video
-![Demo Video](demo/Challenge1.mp4)
+![Demo Video](https://youtu.be/rEvjhD2RjMw)
 
 ---
 
